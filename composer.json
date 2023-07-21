@@ -1,0 +1,17 @@
+{
+    "name": "nugurinofla/composer-olamundo",
+    "description": "Projeto teste para upar no packgist",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nugurinofla"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Treinaweb\\": "src"
+        }
+    }
+}
